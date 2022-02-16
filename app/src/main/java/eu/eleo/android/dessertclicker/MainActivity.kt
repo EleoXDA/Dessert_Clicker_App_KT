@@ -29,6 +29,7 @@ import eu.eleo.android.dessertclicker.databinding.ActivityMainBinding
 
 const val TAG = "MainActivity"
 
+
 class MainActivity : AppCompatActivity() {
 
     private var revenue = 0
@@ -176,5 +177,10 @@ class MainActivity : AppCompatActivity() {
             R.id.shareMenuButton -> onShare()
         }
         return super.onOptionsItemSelected(item)
+    }
+    override fun onSaveInstanceState(outState: Bundle) {
+        super.onSaveInstanceState(outState)
+
+        Log.d(TAG, "onSaveInstanceState Called")
     }
 }

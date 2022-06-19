@@ -60,14 +60,14 @@
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.3.0/21f49f5f9b85fc49de712539f79123119740595/annotation-1.3.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/e615856771f9ed91b8d426087ad159db/transformed/jetified-kotlinx-coroutines-android-1.4.1.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b411d0316f8e8f64253d5d402a45b983/transformed/jetified-kotlinx-coroutines-core-jvm-1.4.1.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/966a3ce373e4173aad07f4359ce181a6/transformed/jetified-kotlin-stdlib-jdk7-1.7.0.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/6378a3668cc41c33debea5d07612a4c6/transformed/jetified-kotlin-stdlib-1.7.0.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/908f505f4eceb12fcb582a3d288c0676/transformed/jetified-kotlin-stdlib-common-1.7.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/1613116cc3f214c69d797aa47c3b6db3/transformed/jetified-kotlin-stdlib-jdk7-1.7.0-RC2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/ee9227768456eb2ef501963121e3e053/transformed/jetified-kotlin-stdlib-1.7.0-RC2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/19083d5e2e7705a05097458e98b7fb02/transformed/jetified-kotlin-stdlib-common-1.7.0-RC2.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/4b3137c56647ac842808df5fbe28500d/transformed/jetified-annotations-13.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/2dc3052760bde1cb35905b26992ff2de/transformed/jetified-startup-runtime-1.0.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/6bd980a3619024f5a2f13cda40b26666/transformed/jetified-annotation-experimental-1.1.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b55d99c18393b072a8cd9c862c52ab10/transformed/constraintlayout-2.1.4-api.jar</arg>
-                <arg>$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-32/android.jar</arg>
+                <arg>$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-33/android.jar</arg>
                 <arg>$USER_HOME$/AppData/Local/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar</arg>
               </args>
             </stringArg>
@@ -128,7 +128,7 @@
     <content url="file://$MODULE_DIR$/../../../app/build/generated/source/kaptKotlin/debugUnitTest" />
     <content url="file://$MODULE_DIR$/../../../app/src/test" />
     <content url="file://$MODULE_DIR$/../../../app/src/testDebug" />
-    <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
+    <orderEntry type="jdk" jdkName="Android API 33, extension level 3 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Dessert_Clicker.app.main" scope="TEST" />
     <orderEntry type="module-library" scope="TEST">
@@ -146,10 +146,10 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.4.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.4.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.7.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.7.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.7.0-RC2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.7.0-RC2" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.0-RC2" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:databinding-runtime:7.2.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:viewbinding:7.2.1@aar" level="project" />
